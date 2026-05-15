@@ -1,0 +1,1 @@
+Changes a creature’s form, movement, or capabilities, such as flying, climbing, or full-body transformation.

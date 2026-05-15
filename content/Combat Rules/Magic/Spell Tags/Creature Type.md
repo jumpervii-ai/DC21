@@ -1,0 +1,1 @@
+Targets, affects, or interacts with the specified Creature Type, such as Dragon, Fiend, Humanoid, or Undead.
