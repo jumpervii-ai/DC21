@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: jumpervii-ai.github.io/dc21
+  baseUrl: dc20.rpghosting.com
   ignorePatterns:
     - private
     - templates
