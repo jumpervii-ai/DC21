@@ -1,1 +1,0 @@
-Calls forth creatures, objects, or constructs to aid the caster temporarily.

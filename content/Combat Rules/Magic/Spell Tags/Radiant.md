@@ -1,1 +1,0 @@
-Calls upon purifying, divine light to damage enemies or to burn away darkness.

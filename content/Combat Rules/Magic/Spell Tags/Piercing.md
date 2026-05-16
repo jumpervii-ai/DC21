@@ -1,1 +1,0 @@
-Deals sharp, focused physical damage, often tied to magical projectiles like bolts, arrows, or conjured spikes.

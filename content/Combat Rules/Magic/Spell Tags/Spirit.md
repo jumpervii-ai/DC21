@@ -1,1 +1,0 @@
-Interacts with the souls of the living or dead, including communication, guidance, or binding.

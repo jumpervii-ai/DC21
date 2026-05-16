@@ -1,1 +1,0 @@
-Influences the flow of time, slowing, hastening, or altering the timing of events.
