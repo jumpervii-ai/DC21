@@ -1,0 +1,1 @@
+Reads, alters, or communicates directly with a creature’s conscious mind.

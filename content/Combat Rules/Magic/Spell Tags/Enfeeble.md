@@ -1,0 +1,1 @@
+Magically hinders a creature's abilities, reducing stats, rolls, or other numerical traits.

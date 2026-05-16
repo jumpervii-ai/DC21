@@ -1,0 +1,1 @@
+Restores life to a dead creature, either partially or fully.
