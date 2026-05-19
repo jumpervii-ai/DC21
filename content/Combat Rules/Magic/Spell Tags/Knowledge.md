@@ -1,1 +1,0 @@
-Reveals hidden information, insights, memories, or truths about the world or a target.

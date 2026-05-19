@@ -1,1 +1,0 @@
-Magically creates, enhances, or transforms weapons for a short duration or specialized use.

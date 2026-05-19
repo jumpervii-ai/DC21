@@ -1,1 +1,0 @@
-Reveals hidden things, detects magic or creatures, or prevents detection through magical means.

@@ -1,1 +1,0 @@
-Restores hit points or enhances the effectiveness of other healing effects or spells.

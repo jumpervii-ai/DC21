@@ -1,1 +1,0 @@
-Creates, manipulates, or mimics sounds, from whispers to thunderous booms.

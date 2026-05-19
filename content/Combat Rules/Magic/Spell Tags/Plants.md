@@ -1,1 +1,0 @@
-Manipulates or animates plant life, such as vines that ensnare, roots that entangle, or flora that blooms with magical energy.

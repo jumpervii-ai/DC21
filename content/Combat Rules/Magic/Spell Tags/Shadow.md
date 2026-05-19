@@ -1,1 +1,0 @@
-Manipulates darkness or obscures light, often tied to stealth magic.

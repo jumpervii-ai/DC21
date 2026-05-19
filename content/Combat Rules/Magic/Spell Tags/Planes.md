@@ -1,1 +1,0 @@
-Connects or interacts with other planes of existence.

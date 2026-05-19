@@ -1,1 +1,0 @@
-Harnesses the power of deep shadow and magical darkness, often with sinister, obscuring, or weakening effects.

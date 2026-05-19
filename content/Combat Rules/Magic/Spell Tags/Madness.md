@@ -1,1 +1,0 @@
-Assaults the mind with confusion, hallucination, obsession, or despair, fracturing a creature’s grip on reality. Often linked to forbidden knowledge or otherworldly influence.
