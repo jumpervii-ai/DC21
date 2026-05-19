@@ -1,0 +1,1 @@
+Manipulates the life essence within a creature, drawing it out, strengthening it, or using it as a medium for power. Often associated with sacrificial magic or vitality exchange.

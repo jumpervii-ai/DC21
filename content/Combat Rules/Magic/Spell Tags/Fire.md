@@ -1,0 +1,1 @@
+Channels raw flame to burn enemies, ignite surroundings, or emit intense heat to shape the battlefield.
