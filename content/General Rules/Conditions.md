@@ -106,7 +106,7 @@ Creatures can’t see you unless they have the ability to see the Invisible (see
 
 You are subjected to the following effects:
 
-- You’re **Incapacitated**.
+- You’re [[Conditions#Incapacitated|Incapacitated]].
 - You automatically fail Physical Saves (except against Poisons and Diseases).
 - Attacks against you have ADV.
 - Attacks made within 1 Space are considered Critical Hits.
@@ -117,7 +117,7 @@ You and your mundane belongings are turned into a inanimate substance (often sto
 
 - You’re not aware of your surroundings.
 - You’re 10 times heavier than normal.
-- You’re **Incapacitated**.
+- You’re [[Conditions#Incapacitated|Incapacitated]].
 - You automatically fail Physical Saves.
 - Attacks against you have ADV.
 - You gain Bludgeoning Vulnerability (Double) and Resistance (Half) to all other damage.
@@ -127,7 +127,7 @@ You and your mundane belongings are turned into a inanimate substance (often sto
 
 You are subjected to the following effects:
 
-- You’re **Immobilized**.
+- You’re  [[Conditions#Immobilized|Immobilized]].
 - Your Attacks have DisADV.
 - Attacks against you have ADV.
 
@@ -139,7 +139,7 @@ Every 1 Space you move costs an extra **X** Spaces of movement.
 
 Your current and maximum AP is reduced by **X**. While you’re **Stunned 4** or higher, you are subjected to the following effects:
 
-- You’re **Incapacitated**.
+- You’re [[Conditions#Incapacitated|Incapacitated]].
 - Attacks against you have ADV.
 - You automatically fail Physical Saves (except against Poisons and Diseases).
 
@@ -166,7 +166,7 @@ You are **Tethered** to a creature or Space. While **Tethered**, you can't move 
 
 When you become **Unconscious**, you immediately drop whatever you are holding and fall Prone. While **Unconscious**, you’re subjected to the following effects:
 
-- You’re **Incapacitated**.
+- You’re [[Conditions#Incapacitated|Incapacitated]].
 - You’re not aware of your surroundings.
 - You automatically fail Physical Saves (except against Poisons and Diseases).
 - Attacks against you have ADV.

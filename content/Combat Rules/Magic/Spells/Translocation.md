@@ -1,24 +1,15 @@
 ### Translocation
 
-**Source:** Arcane
+**Source:** [[Arcane]]
+**School:** [[Astromancy]]
+**Tags:** [[Teleportation]]
+**Cost**: 1 AP + 1 MP
+**Range**: 10 Spaces
+**Duration**: Instantaneous
 
-**School:** Astromancy
+You teleport a Medium or smaller object or willing creature other than yourself within range up to 3 Spaces to an unoccupied Space also within range. If the target is [[Conditions#Immobilized|Immobilized]] the Spell fails.
 
-**Tags:** Teleportation
-
-Cost: 1 AP + 1 MP
-
-Range: 10 Spaces
-
-Duration: Instantaneous
-
-You teleport an object that is not being held or carried or a creature other than yourself to another Space within range.
-
-**Object:** Make a DC 15 Spell Check to teleport an object within range to another Space within range. **Failure:** You can teleport a small or smaller object up to 100 lbs (50 kg). **Success:** You can teleport a medium or smaller object of up to 200lbs (100 kg). **Success (10):** You can teleport a large or smaller object of up to 300lbs (150 kg).
-
-**Creature:** Make a Spell Check against the Charisma Save of an up to Medium size creature within range. **Check Success:** You teleport the creature up to 3 Spaces to an unoccupied Space you can see that is also within range.
-
-DC Tip: Friendly creatures can choose to fail the Save!
+**Held Object**: If you target an object being held or carried by an unwilling creature, you must first succeed a Spell Check contested by the creature’s Charisma Save or the Spell fails.
 
 **Spell Enhancements**
 
@@ -26,6 +17,10 @@ DC Tip: Friendly creatures can choose to fail the Save!
 
 **Distance:** (1 MP, Repeatable) The distance of the teleport increases by 3 Spaces.
 
-**Size:** (1 MP, Repeatable) The maximum size of the creature or object you can teleport increases by 1. The maximum weight of the object you can teleport also increases by 100 lbs (50 kg).
+**Hostile**: (1 MP) You can target unwilling creatures, but must first succeed on a Spell Check contested by the target’s Charisma Save or the Spell fails
 
-\*\*Swap: \*\*\*\*(2 MP) Choose another object that is not being held or carried or creature within range (you can choose yourself). If the Spell Succeeds on both targets, they swap location provided they are within 3 Spaces of each other. The distance is increased by 3 Spaces for each time you use the Distance Enhancement. If the Spell only Succeed on only 1 target, you can teleport that target as normal.
+**Unbound**: (1 MP) The Spell no longer fails if the target is Immobilized.
+
+**Size:** (1 MP, Repeatable) The maximum size of a creature or object you can target by 1 step (Medium -> Large -> Huge -> Gargantuan -> Colossal -> Titanic). The cost of this Enhancement increases to 2 MP for each size increase
+
+**Swap:** (2 MP) Choose a second target within range (you can choose yourself). If the Spell Succeeds on both targets, they swap location provided they are within 3 Spaces of each other. The distance is increased by 3 Spaces for each time you use the **Distance Enhancement**. If the Spell only Succeeds on only 1 target, you can teleport that target as normal.
